@@ -1,0 +1,48 @@
+/* Mengatur tampilan dasar halaman */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f7ff;
+    color: #263238;
+    margin: 0;
+}
+
+/* Bagian judul halaman */
+.header {
+    background-color: #2674c8;
+    color: white;
+    text-align: center;
+    padding: 24px;
+}
+
+.header h1 {
+    font-size: 30px;
+}
+
+/* Bagian isi halaman */
+.main {
+    background-color: white;
+    margin: 24px;
+    padding: 24px;
+}
+
+h2 {
+    color: #2674c8;
+    font-size: 22px;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+a {
+    color: #087e8b;
+}
+
+/* Bagian bawah halaman */
+.footer {
+    background-color: #dcecff;
+    color: #263238;
+    text-align: center;
+    padding: 12px;
+}
